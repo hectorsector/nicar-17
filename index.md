@@ -19,7 +19,7 @@ Add your handle to the list below.
 | 13     | @whitevs7        |            |
 | 14     | @rebeccanews     |            |
 | 15     | @jsmithrichards  |            |
-| 16     | @apantazi        |            |
+| 16     | @apantazi        | @marypasciak           |
 | 17     | @Jeavac          |            |
 | 18     | hassel           |            |
 | 19     | @ourt            |            |
