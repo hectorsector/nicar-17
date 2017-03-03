@@ -15,7 +15,7 @@ Add your handle to the list below.
 | 9      | @bqskillman      | @jonathonberlin           |
 | 10     | @waltjw          | @joanlxin           |
 | 11     | dee’s handle     |            |
-| 12     | @jimstancil      | @tomreitz           |
+| 12     | @jimstancil      |            |
 | 13     | @whitevs7        | @jillcast  |
 | 14     | @rebeccanews     |            |
 | 15     | @jsmithrichards  | @bnauman   |
@@ -25,7 +25,7 @@ Add your handle to the list below.
 | 19     | @ourt            | @RyanMcNeill1977   |
 | 20     | @helenabengtsson |            |
 | 21     |                  |            |
-| 22     |                  |            |
+| 22     |                  |@digitalcampbell            |
 | 23     |                  | @tom_kaspr           |
 | 24     |                  |            |
 | 25     |                  |            |
