@@ -13,7 +13,7 @@ Add your handle to the list below.
 | 7      | @BiasData        |            |
 | 8      | @zdf             |            |
 | 9      | @bqskillman      |            |
-| 10     | @waltjw          |            |
+| 10     | @waltjw          | @joanlxin           |
 | 11     | dee’s handle     |            |
 | 12     | @jimstancil      |            |
 | 13     | @whitevs7        |            |
