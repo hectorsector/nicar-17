@@ -12,7 +12,7 @@ Add your handle to the list below.
 | 6      | @mindycoopr      |            |
 | 7      | @BiasData        |            |
 | 8      | @zdf             |            |
-| 9      | @bqskillman      |            |
+| 9      | @bqskillman      | @jonathonberlin           |
 | 10     | @waltjw          |            |
 | 11     | dee’s handle     |            |
 | 12     | @jimstancil      |            |
@@ -24,7 +24,7 @@ Add your handle to the list below.
 | 18     | hassel           |            |
 | 19     | @ourt            |            |
 | 20     | @helenabengtsson |            |
-| 21     | @jonathonberlin  |            |
+| 21     |                  |            |
 | 22     |                  |            |
 | 23     |                  |            |
 | 24     |                  |            |
