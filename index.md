@@ -23,7 +23,7 @@ Add your handle to the list below.
 | 17     | @Jeavac          | @KOrstadius|
 | 18     | hassel           |  @lehrennyt          |
 | 19     | @ourt            | @RyanMcNeill1977   |
-| 20     | @helenabengtsson |            |
+| 20     | @helenabengtsson | @MadHops           |
 | 21     |                  |            |
 | 22     |                  |@digitalcampbell            |
 | 23     |                  | @tom_kaspr           |
