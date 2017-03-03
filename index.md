@@ -4,7 +4,7 @@ Add your handle to the list below.
 
 | Number | Thu, Mar 2       | Fri, Mar 3 |
 |--------|------------------|------------|
-| 1      | @hectorsector    |            |
+| 1      | @hectorsector    |@brettmmurphy       |
 | 2      | @amiham-singh    |            |
 | 3      | @psitsApril      |            |
 | 4      | @tarajcarman     |            |
