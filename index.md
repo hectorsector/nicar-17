@@ -26,7 +26,7 @@ Add your handle to the list below.
 | 20     | @helenabengtsson |            |
 | 21     |                  |            |
 | 22     |                  |            |
-| 23     |                  |            |
+| 23     |                  | @tom_kaspr           |
 | 24     |                  |            |
 | 25     |                  |            |
 
