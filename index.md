@@ -11,7 +11,7 @@ Add your handle to the list below.
 | 5      | @jdale7          |            |
 | 6      | @mindycoopr      |            |
 | 7      | @BiasData        |            |
-| 8      | @zdf             |            |
+| 8      | @zdf             | @cedds     |
 | 9      | @bqskillman      |            |
 | 10     | @waltjw          |            |
 | 11     | dee’s handle     |            |
