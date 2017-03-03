@@ -20,7 +20,7 @@ Add your handle to the list below.
 | 14     | @rebeccanews     |            |
 | 15     | @jsmithrichards  |            |
 | 16     | @apantazi        |            |
-| 17     | @Jeavac          |            |
+| 17     | @Jeavac          | @KOrstadius|
 | 18     | hassel           |            |
 | 19     | @ourt            |            |
 | 20     | @helenabengtsson |            |
