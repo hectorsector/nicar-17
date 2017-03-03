@@ -9,7 +9,7 @@ Add your handle to the list below.
 | 3      | @psitsApril      |@Jessica Huseman|
 | 4      | @tarajcarman     |            |
 | 5      | @jdale7          |            |
-| 6      | @mindycoopr      |            |
+| 6      | @mindycoopr      |   @marktfahey        |
 | 7      | @BiasData        |            |
 | 8      | @zdf             | @cedds     |
 | 9      | @bqskillman      |            |
