@@ -14,7 +14,7 @@ Add your handle to the list below.
 | 8      | @zdf             | @cedds     |
 | 9      | @bqskillman      | @jonathonberlin           |
 | 10     | @waltjw          | @joanlxin           |
-| 11     | dee’s handle     |            |
+| 11     | dee’s handle     | @shealynkilroy           |
 | 12     | @jimstancil      |            |
 | 13     | @whitevs7        | @jillcast  |
 | 14     | @rebeccanews     | @polsenphillips           |
