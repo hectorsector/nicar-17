@@ -7,7 +7,7 @@ Add your handle to the list below.
 | 1      | @hectorsector    |            |
 | 2      | @amiham-singh    |            |
 | 3      | @psitsApril      |            |
-| 4      | @tarajcarman     |            |
+| 4      | @tarajcarman     |@marina_affo|
 | 5      | @jdale7          |            |
 | 6      | @mindycoopr      |            |
 | 7      | @BiasData        |            |
