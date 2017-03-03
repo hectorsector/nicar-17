@@ -18,7 +18,7 @@ Add your handle to the list below.
 | 12     | @jimstancil      |            |
 | 13     | @whitevs7        | @jillcast  |
 | 14     | @rebeccanews     |            |
-| 15     | @jsmithrichards  |            |
+| 15     | @jsmithrichards  | @bnauman   |
 | 16     | @apantazi        |            |
 | 17     | @Jeavac          | @KOrstadius|
 | 18     | hassel           |            |
