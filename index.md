@@ -28,7 +28,7 @@ Add your handle to the list below.
 | 22     |                  |@digitalcampbell            |
 | 23     |                  | @tom_kaspr           |
 | 24     |                  |            |
-| 25     |                  |            |
+| 25     |                  |  vince          |
 | 26     |                  | @jillianbauer |
 
 [Download](nicar.pdf) the slide deck.
