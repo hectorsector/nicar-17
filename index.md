@@ -8,7 +8,7 @@ Add your handle to the list below.
 | 2      | @amiham-singh    |            |
 | 3      | @psitsApril      |            |
 | 4      | @tarajcarman     |            |
-| 5      | @jdale7          |            |
+| 5      | @jdale7          |@meghanhoyer|
 | 6      | @mindycoopr      |            |
 | 7      | @BiasData        |            |
 | 8      | @zdf             |            |
