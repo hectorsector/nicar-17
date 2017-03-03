@@ -6,7 +6,7 @@ Add your handle to the list below.
 |--------|------------------|------------|
 | 1      | @hectorsector    |            |
 | 2      | @amiham-singh    |            |
-| 3      | @psitsApril      |            |
+| 3      | @psitsApril      |@Jessica Huseman|
 | 4      | @tarajcarman     |            |
 | 5      | @jdale7          |            |
 | 6      | @mindycoopr      |            |
