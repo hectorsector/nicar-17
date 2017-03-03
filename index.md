@@ -17,7 +17,7 @@ Add your handle to the list below.
 | 11     | dee’s handle     |            |
 | 12     | @jimstancil      |            |
 | 13     | @whitevs7        | @jillcast  |
-| 14     | @rebeccanews     |            |
+| 14     | @rebeccanews     | @polsenphillips           |
 | 15     | @jsmithrichards  | @bnauman   |
 | 16     | @apantazi        |  @marypasciak          |
 | 17     | @Jeavac          | @KOrstadius|
