@@ -29,6 +29,7 @@ Add your handle to the list below.
 | 23     |                  |            |
 | 24     |                  |            |
 | 25     |                  |            |
+| 26     |                  | @jillianbauer |
 
 [Download](nicar.pdf) the slide deck.
 
