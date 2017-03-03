@@ -21,7 +21,7 @@ Add your handle to the list below.
 | 15     | @jsmithrichards  |            |
 | 16     | @apantazi        |            |
 | 17     | @Jeavac          |            |
-| 18     | hassel           |            |
+| 18     | hassel           |@lehrennyt  |
 | 19     | @ourt            |            |
 | 20     | @helenabengtsson |            |
 | 21     |                  |            |
